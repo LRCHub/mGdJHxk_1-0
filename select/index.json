@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "SENA - “ DaNchi “ feat. Aroma-T, Awki Sonic (Official Music Video)",
+  "base_artist": "SENA",
+  "createdAt": "2025-12-01T14:30:28.582962Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Senaka",
+      "artist": "林 明日香",
+      "has_synced": false,
+      "path": "select/pl_01_Senaka_林_明日香.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SENA",
+      "artist": "林 明日香",
+      "has_synced": false,
+      "path": "select/pl_02_SENA_林_明日香.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Senaka",
+      "artist": "林 明日香",
+      "has_synced": false,
+      "path": "select/pl_03_Senaka_林_明日香.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Senator",
+      "artist": "林 明日香",
+      "has_synced": false,
+      "path": "select/pl_04_Senator_林_明日香.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SENA (feat. KSK & 京 kei)",
+      "artist": "林 明日香",
+      "has_synced": false,
+      "path": "select/pl_05_SENA_(feat._KSK_&_京_kei)_林_明日香.txt"
+    }
+  ]
+}
